@@ -10,59 +10,59 @@ This catalog provides an organized view of all Artapli embroidery designs with t
 
 ## Browse by Category
 
-### [Other](categories/other/)
-1282 designs | [View on Shop](https://artapli.shop/collections/other)
+### [Baby & Kids](categories/baby-and-kids/)
+1655 designs | [View on Shop](https://artapli.shop/collections/baby-and-kids)
 
 ### [All Fonts](categories/all-fonts/)
-899 designs | [View on Shop](https://artapli.shop/collections/all-fonts)
-
-### [Christmas](categories/christmas/)
-393 designs | [View on Shop](https://artapli.shop/collections/christmas)
-
-### [Florals](categories/florals/)
-315 designs | [View on Shop](https://artapli.shop/collections/florals)
-
-### [Animals](categories/animals/)
-217 designs | [View on Shop](https://artapli.shop/collections/animals)
+1051 designs | [View on Shop](https://artapli.shop/collections/all-fonts)
 
 ### [Monogram Fonts](categories/monogram-fonts/)
-182 designs | [View on Shop](https://artapli.shop/collections/monogram-fonts)
+1030 designs | [View on Shop](https://artapli.shop/collections/monogram-fonts)
 
-### [ITH Keychains](categories/ith-keychains/)
-163 designs | [View on Shop](https://artapli.shop/collections/ith-keychains)
+### [Animals](categories/animals/)
+798 designs | [View on Shop](https://artapli.shop/collections/animals)
+
+### [BX Fonts](categories/bx-fonts/)
+713 designs | [View on Shop](https://artapli.shop/collections/bx-fonts)
+
+### [Christmas](categories/christmas/)
+538 designs | [View on Shop](https://artapli.shop/collections/christmas)
+
+### [Florals](categories/florals/)
+411 designs | [View on Shop](https://artapli.shop/collections/florals)
+
+### [Other](categories/other/)
+353 designs | [View on Shop](https://artapli.shop/collections/other)
 
 ### [Valentine](categories/valentine/)
-144 designs | [View on Shop](https://artapli.shop/collections/valentine)
+222 designs | [View on Shop](https://artapli.shop/collections/valentine)
 
-### [Halloween](categories/halloween/)
-132 designs | [View on Shop](https://artapli.shop/collections/halloween)
-
-### [Baby & Kids](categories/baby-and-kids/)
-113 designs | [View on Shop](https://artapli.shop/collections/baby-and-kids)
-
-### [Shadow Fonts](categories/shadow-fonts/)
-73 designs | [View on Shop](https://artapli.shop/collections/shadow-fonts)
-
-### [Easter](categories/easter/)
-71 designs | [View on Shop](https://artapli.shop/collections/easter)
-
-### [Chain Stitch](categories/chain-stitch/)
-59 designs | [View on Shop](https://artapli.shop/collections/chain-stitch)
+### [ITH Keychains](categories/ith-keychains/)
+200 designs | [View on Shop](https://artapli.shop/collections/ith-keychains)
 
 ### [Script Fonts](categories/script-fonts/)
-46 designs | [View on Shop](https://artapli.shop/collections/script-fonts)
+195 designs | [View on Shop](https://artapli.shop/collections/script-fonts)
+
+### [Halloween](categories/halloween/)
+169 designs | [View on Shop](https://artapli.shop/collections/halloween)
 
 ### [Applique Fonts](categories/applique-fonts/)
-27 designs | [View on Shop](https://artapli.shop/collections/applique-fonts)
+129 designs | [View on Shop](https://artapli.shop/collections/applique-fonts)
+
+### [Easter](categories/easter/)
+121 designs | [View on Shop](https://artapli.shop/collections/easter)
+
+### [Shadow Fonts](categories/shadow-fonts/)
+90 designs | [View on Shop](https://artapli.shop/collections/shadow-fonts)
+
+### [Chain Stitch](categories/chain-stitch/)
+76 designs | [View on Shop](https://artapli.shop/collections/chain-stitch)
 
 ### [ITH Towel Toppers](categories/ith-towel-toppers/)
-19 designs | [View on Shop](https://artapli.shop/collections/ith-towel-toppers)
+52 designs | [View on Shop](https://artapli.shop/collections/ith-towel-toppers)
 
 ### [Satin Stitch Fonts](categories/satin-stitch-fonts/)
 8 designs | [View on Shop](https://artapli.shop/collections/satin-stitch-fonts)
-
-### [BX Fonts](categories/bx-fonts/)
-2 designs | [View on Shop](https://artapli.shop/collections/bx-fonts)
 
 ---
 

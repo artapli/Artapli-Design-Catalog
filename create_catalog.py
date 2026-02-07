@@ -31,14 +31,16 @@ CATEGORIES = {
     'All Fonts': ['font', 'alphabet', 'letter'],
 }
 
-def get_categories(title):
-    """Match product to categories based on title keywords"""
+def get_categories(title, tags=''):
+    """Match product to categories based on title and tags keywords"""
     title_lower = title.lower()
+    tags_lower = tags.lower() if tags else ''
+    search_text = f"{title_lower} {tags_lower}"
     matched = []
 
     for category, keywords in CATEGORIES.items():
         for keyword in keywords:
-            if keyword in title_lower:
+            if keyword in search_text:
                 matched.append(category)
                 break
 
@@ -95,12 +97,13 @@ def main():
     conn = sqlite3.connect(db_file)
     cursor = conn.cursor()
 
-    # Query all active products with valid data
+    # Query all active products with valid data including tags
     cursor.execute("""
         SELECT DISTINCT
             shopify_handle,
             product_name,
-            image_url
+            image_url,
+            shopify_tags
         FROM products
         WHERE shopify_status = 'active'
         AND shopify_handle IS NOT NULL
@@ -109,7 +112,7 @@ def main():
     """)
 
     for row in cursor.fetchall():
-        handle, title, image = row
+        handle, title, image, tags = row
 
         if not handle or not title or not image:
             continue
@@ -122,8 +125,8 @@ def main():
                 'image': image
             }
 
-            # Categorize
-            categories = get_categories(title)
+            # Categorize using both title and tags
+            categories = get_categories(title, tags)
             for cat in categories:
                 products_by_category[cat].append(all_products[handle])
 
