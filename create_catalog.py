@@ -4,7 +4,7 @@ Create organized GitHub catalog of all Artapli designs
 With thumbnails and links to artapli.shop
 """
 
-import csv
+import sqlite3
 import os
 from pathlib import Path
 from collections import defaultdict
@@ -84,36 +84,50 @@ def create_category_readme(category, products):
 def main():
     """Process products and create catalog"""
 
-    csv_file = '/home/anna/all products - compare_with_descriptions.csv'
+    db_file = '/home/anna/FireflareDocs/complete_integrated_database.db'
 
-    print("Reading products...")
+    print("Reading products from database...")
 
     products_by_category = defaultdict(list)
     all_products = {}
 
-    with open(csv_file, 'r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
+    # Connect to database
+    conn = sqlite3.connect(db_file)
+    cursor = conn.cursor()
 
-        for row in reader:
-            handle = row.get('n ', '').strip()
-            title = row.get('Title', '').strip()
-            image = row.get('Image Src', '').strip()
+    # Query all active products with valid data
+    cursor.execute("""
+        SELECT DISTINCT
+            shopify_handle,
+            product_name,
+            image_url
+        FROM products
+        WHERE shopify_status = 'active'
+        AND shopify_handle IS NOT NULL
+        AND product_name IS NOT NULL
+        ORDER BY product_name
+    """)
 
-            if not handle or not title:
-                continue
+    for row in cursor.fetchall():
+        handle, title, image = row
 
-            # Store unique products only
-            if handle not in all_products:
-                all_products[handle] = {
-                    'handle': handle,
-                    'title': title,
-                    'image': image
-                }
+        if not handle or not title or not image:
+            continue
 
-                # Categorize
-                categories = get_categories(title)
-                for cat in categories:
-                    products_by_category[cat].append(all_products[handle])
+        # Store unique products only
+        if handle not in all_products:
+            all_products[handle] = {
+                'handle': handle,
+                'title': title,
+                'image': image
+            }
+
+            # Categorize
+            categories = get_categories(title)
+            for cat in categories:
+                products_by_category[cat].append(all_products[handle])
+
+    conn.close()
 
     print(f"Found {len(all_products)} unique products")
     print(f"Creating {len(products_by_category)} category pages...")
