@@ -2,8 +2,6 @@
 
 121 designs in this category
 
-[🛍️ Browse all Easter on artapli.shop](https://artapli.shop/collections/easter)
-
 ---
 
 ## Designs

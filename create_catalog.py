@@ -53,8 +53,6 @@ def create_category_readme(category, products):
 
 {len(products)} designs in this category
 
-[🛍️ Browse all {category} on artapli.shop](https://artapli.shop/collections/{category.lower().replace(' ', '-').replace('&', 'and')})
-
 ---
 
 ## Designs
@@ -177,7 +175,7 @@ This catalog provides an organized view of all Artapli embroidery designs with t
     for category, products in sorted_cats:
         cat_link = category.lower().replace(' ', '-').replace('&', 'and')
         readme += f"### [{category}](categories/{cat_link}/)\n"
-        readme += f"{len(products)} designs | [View on Shop](https://artapli.shop/collections/{cat_link})\n\n"
+        readme += f"{len(products)} designs\n\n"
 
     readme += f"""---
 

@@ -2,8 +2,6 @@
 
 169 designs in this category
 
-[🛍️ Browse all Halloween on artapli.shop](https://artapli.shop/collections/halloween)
-
 ---
 
 ## Designs

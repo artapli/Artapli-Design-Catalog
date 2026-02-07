@@ -2,8 +2,6 @@
 
 90 designs in this category
 
-[🛍️ Browse all Shadow Fonts on artapli.shop](https://artapli.shop/collections/shadow-fonts)
-
 ---
 
 ## Designs

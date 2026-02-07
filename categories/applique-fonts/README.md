@@ -2,8 +2,6 @@
 
 129 designs in this category
 
-[🛍️ Browse all Applique Fonts on artapli.shop](https://artapli.shop/collections/applique-fonts)
-
 ---
 
 ## Designs

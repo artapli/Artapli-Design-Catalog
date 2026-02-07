@@ -2,8 +2,6 @@
 
 1030 designs in this category
 
-[🛍️ Browse all Monogram Fonts on artapli.shop](https://artapli.shop/collections/monogram-fonts)
-
 ---
 
 ## Designs

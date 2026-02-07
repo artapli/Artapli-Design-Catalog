@@ -2,8 +2,6 @@
 
 353 designs in this category
 
-[🛍️ Browse all Other on artapli.shop](https://artapli.shop/collections/other)
-
 ---
 
 ## Designs

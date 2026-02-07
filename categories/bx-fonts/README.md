@@ -2,8 +2,6 @@
 
 713 designs in this category
 
-[🛍️ Browse all BX Fonts on artapli.shop](https://artapli.shop/collections/bx-fonts)
-
 ---
 
 ## Designs

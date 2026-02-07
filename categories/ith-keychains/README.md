@@ -2,8 +2,6 @@
 
 200 designs in this category
 
-[🛍️ Browse all ITH Keychains on artapli.shop](https://artapli.shop/collections/ith-keychains)
-
 ---
 
 ## Designs

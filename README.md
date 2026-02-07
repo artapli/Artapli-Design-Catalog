@@ -11,58 +11,58 @@ This catalog provides an organized view of all Artapli embroidery designs with t
 ## Browse by Category
 
 ### [Baby & Kids](categories/baby-and-kids/)
-1655 designs | [View on Shop](https://artapli.shop/collections/baby-and-kids)
+1655 designs
 
 ### [All Fonts](categories/all-fonts/)
-1051 designs | [View on Shop](https://artapli.shop/collections/all-fonts)
+1051 designs
 
 ### [Monogram Fonts](categories/monogram-fonts/)
-1030 designs | [View on Shop](https://artapli.shop/collections/monogram-fonts)
+1030 designs
 
 ### [Animals](categories/animals/)
-798 designs | [View on Shop](https://artapli.shop/collections/animals)
+798 designs
 
 ### [BX Fonts](categories/bx-fonts/)
-713 designs | [View on Shop](https://artapli.shop/collections/bx-fonts)
+713 designs
 
 ### [Christmas](categories/christmas/)
-538 designs | [View on Shop](https://artapli.shop/collections/christmas)
+538 designs
 
 ### [Florals](categories/florals/)
-411 designs | [View on Shop](https://artapli.shop/collections/florals)
+411 designs
 
 ### [Other](categories/other/)
-353 designs | [View on Shop](https://artapli.shop/collections/other)
+353 designs
 
 ### [Valentine](categories/valentine/)
-222 designs | [View on Shop](https://artapli.shop/collections/valentine)
+222 designs
 
 ### [ITH Keychains](categories/ith-keychains/)
-200 designs | [View on Shop](https://artapli.shop/collections/ith-keychains)
+200 designs
 
 ### [Script Fonts](categories/script-fonts/)
-195 designs | [View on Shop](https://artapli.shop/collections/script-fonts)
+195 designs
 
 ### [Halloween](categories/halloween/)
-169 designs | [View on Shop](https://artapli.shop/collections/halloween)
+169 designs
 
 ### [Applique Fonts](categories/applique-fonts/)
-129 designs | [View on Shop](https://artapli.shop/collections/applique-fonts)
+129 designs
 
 ### [Easter](categories/easter/)
-121 designs | [View on Shop](https://artapli.shop/collections/easter)
+121 designs
 
 ### [Shadow Fonts](categories/shadow-fonts/)
-90 designs | [View on Shop](https://artapli.shop/collections/shadow-fonts)
+90 designs
 
 ### [Chain Stitch](categories/chain-stitch/)
-76 designs | [View on Shop](https://artapli.shop/collections/chain-stitch)
+76 designs
 
 ### [ITH Towel Toppers](categories/ith-towel-toppers/)
-52 designs | [View on Shop](https://artapli.shop/collections/ith-towel-toppers)
+52 designs
 
 ### [Satin Stitch Fonts](categories/satin-stitch-fonts/)
-8 designs | [View on Shop](https://artapli.shop/collections/satin-stitch-fonts)
+8 designs
 
 ---
 

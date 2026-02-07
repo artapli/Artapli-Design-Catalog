@@ -2,8 +2,6 @@
 
 1051 designs in this category
 
-[🛍️ Browse all All Fonts on artapli.shop](https://artapli.shop/collections/all-fonts)
-
 ---
 
 ## Designs

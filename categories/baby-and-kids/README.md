@@ -2,8 +2,6 @@
 
 1655 designs in this category
 
-[🛍️ Browse all Baby & Kids on artapli.shop](https://artapli.shop/collections/baby-and-kids)
-
 ---
 
 ## Designs

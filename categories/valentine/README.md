@@ -2,8 +2,6 @@
 
 222 designs in this category
 
-[🛍️ Browse all Valentine on artapli.shop](https://artapli.shop/collections/valentine)
-
 ---
 
 ## Designs

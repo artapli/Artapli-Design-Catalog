@@ -2,8 +2,6 @@
 
 8 designs in this category
 
-[🛍️ Browse all Satin Stitch Fonts on artapli.shop](https://artapli.shop/collections/satin-stitch-fonts)
-
 ---
 
 ## Designs

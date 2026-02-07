@@ -2,8 +2,6 @@
 
 52 designs in this category
 
-[🛍️ Browse all ITH Towel Toppers on artapli.shop](https://artapli.shop/collections/ith-towel-toppers)
-
 ---
 
 ## Designs
