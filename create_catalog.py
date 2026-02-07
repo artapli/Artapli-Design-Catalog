@@ -157,11 +157,13 @@ def create_main_readme(categories, total_count):
 
     readme = f"""# Artapli Embroidery Design Catalog
 
-> Browse {total_count:,} professional machine embroidery designs
+Index of {total_count:,} machine embroidery designs
 
-**Official Store**: [artapli.shop](https://artapli.shop)
+This repository contains a structured catalog of Artapli embroidery designs, including thumbnails, design IDs/names, and direct product links for reference and lookup. It is intended for browsing, organization, and quick access to design pages.
 
-This catalog provides an organized view of all Artapli embroidery designs with thumbnails and direct links to purchase on artapli.shop.
+**Official store**: [artapli.shop](https://artapli.shop)
+
+*Catalog data may be updated periodically; product availability and pricing are managed on the official store.*
 
 ---
 
@@ -179,36 +181,30 @@ This catalog provides an organized view of all Artapli embroidery designs with t
 
     readme += f"""---
 
-## About This Catalog
+## Catalog Structure
 
-This is a reference catalog showing Artapli's embroidery design collection.
+**Categories**: Products are automatically categorized by keywords from product titles and tags. Some products may appear in multiple categories.
 
-**To Purchase**:
-- Click any product link to visit artapli.shop
-- All designs are digital downloads
-- Instant access after purchase
+**Data Source**: Product data is sourced from Shopify (active products only) including handles, titles, images, and tags.
 
-**File Formats**:
-- DST, PES, JEF, EXP, HUS, VP3, XXX, VIP
-- Multiple sizes included
-- BX fonts for Embrilliance
-- ESA fonts for Wilcom/Hatch
-
-**Categories**:
-Designs are automatically organized by keywords. Some products appear in multiple categories.
+**File Formats**: Artapli designs typically include DST, PES, JEF, EXP, HUS, VP3, XXX, VIP formats, with BX fonts for Embrilliance and ESA fonts for Wilcom/Hatch where applicable.
 
 ---
 
 ## Related Resources
 
-- **[Artapli Knowledge Base](https://github.com/artapli/Artapli-Machine-Embroidery)** - Software guides & technical docs
-- **[Lettering Tool](https://artapli.shop/pages/lettering-app)** - FREE browser-based lettering app
-- **[Shop](https://artapli.shop)** - Browse and purchase designs
+- **[Artapli Machine Embroidery Knowledge Base](https://github.com/artapli/Artapli-Machine-Embroidery)** - Technical documentation, software guides, and file format specifications
+- **[Lettering Tool](https://artapli.shop/pages/lettering-app)** - Free browser-based embroidery lettering application
+- **[Official Store](https://artapli.shop)** - Product pages, purchasing, and download access
 
 ---
 
-**© 2026 Artapli**
-*This catalog is for browsing only. All designs are copyrighted and available for purchase at artapli.shop*
+## Repository Information
+
+**Purpose**: Design index and reference catalog
+**Maintainer**: Artapli
+**Last Updated**: {__import__('datetime').datetime.now().strftime('%Y-%m-%d')}
+**License**: Catalog for reference purposes. All designs are copyrighted by Artapli.
 """
 
     with open('README.md', 'w', encoding='utf-8') as f:
